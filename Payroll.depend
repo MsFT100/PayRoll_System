@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1646747893 source:d:\c++projects\elvis\lennox\payroll\main.c
+	<stdio.h>
+	<stdlib.h>
+
